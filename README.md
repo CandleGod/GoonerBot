@@ -16,9 +16,9 @@ Run it in visual studio code be sure to add the nescesary libraries visual studi
 
 ### Link Scanning
 
-Whenever a user posts a link in the server, the bot will automatically scan the link for potential threats. If the link is found to be malicious, the bot will delete the message and notify the user and moderators.
+Whenever a user posts a link in the server, the bot will automatically scan the link for potential threats. If the link is found to be malicious it will modify the user and moderators.
 
 ### Deleted Message Logging
 
-The bot can log deleted messages to a specific channel. To set up the logging channel, use the following command:
+The bot can log deleted messages to a specific channel. To set up the logging channel, HARDCODE IT INTO THE CODE OR MAKE ADDITIONAL CHANGES:
 
